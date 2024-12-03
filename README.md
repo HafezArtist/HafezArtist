@@ -58,3 +58,7 @@ I love connecting with fellow developers, designers, and nature enthusiasts! Fee
 🤝 I’m always excited to meet new people and explore collaborative opportunities. Whether you’re a fellow developer, designer, or someone passionate about technology and nature, I’d love to hear from you. Together, we can create impactful solutions that blend creativity with functionality.
 
 🚀 Thank you for visiting my profile! Let’s embark on this journey of innovation and design together! ✨
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=HafezArtist&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
